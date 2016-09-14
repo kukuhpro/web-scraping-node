@@ -1,0 +1,15 @@
+{
+  "name": "Fjallfaren-Crawler",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "cheerio": "latest",
+    "excel": "^0.1.5",
+    "exceljs": "^0.2.8",
+    "path": "^0.12.7",
+    "slugify": "^0.1.1",
+    "sync-request": "^3.0.1",
+    "synchronize": "^0.9.15",
+    "zombie": "2.x.x"
+  }
+}
